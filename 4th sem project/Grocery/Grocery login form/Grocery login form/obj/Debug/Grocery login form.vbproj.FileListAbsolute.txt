@@ -1,0 +1,77 @@
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Grocery login form.exe
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Grocery login form.pdb
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Grocery login form.xml
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.Resources.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery login form.vbproj.GenerateResource.cache
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery login form.exe
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery login form.xml
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery login form.pdb
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.Login.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.Manager.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\WinFormAnimation.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.Loading1.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.Product.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Employee.mdf
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Employee_log.ldf
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.AddEmployee.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Interop.AcroPDFLib.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Interop.AcroPDFLib.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery login form.vbproj.ResolveComReference.cache
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\FruVe.mdf
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\FruVe_log.ldf
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery login form.vbprojAssemblyReference.cache
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery login form.vbproj.CoreCompileInputs.cache
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery login form.vbproj.CopyComplete
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.Pdf.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Grocery login form.exe.config
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery login form.exe.licenses
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.UpdateEmployee.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.DeleteEmployee.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.Captures.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\AForge.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\AForge.Video.DirectShow.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\AForge.Video.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\AForge.xml
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\AForge.Video.xml
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\AForge.Video.DirectShow.xml
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Dealer.mdf
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Dealer_log.ldf
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.Dealer.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.UpdateDealer.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.Productadd.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.Order.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.billing.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\zxing.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\zxing.presentation.dll
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\zxing.xml
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\zxing.presentation.xml
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.PaymentPortal.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.Report.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.Profile.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.ResetPassworddata.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery_login_form.messages.resources
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery login form.TrustInfo.xml
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery login form.exe.manifest
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Grocery login form.exe.manifest
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\bin\Debug\Grocery login form.application
+F:\4th sem project\Grocery\Grocery login form\Grocery login form\obj\Debug\Grocery login form.application
